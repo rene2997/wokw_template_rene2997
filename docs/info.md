@@ -9,10 +9,10 @@ You can also include images in this folder and reference them in the markdown. E
 
 ## How it works
 
-IDK
+I do now know yet
 ## How to test
 
-IDK
+I do now know yet
 ## External hardware
 
-IDK
+I do now know yet
